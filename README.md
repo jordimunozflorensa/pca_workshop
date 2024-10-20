@@ -1,16 +1,12 @@
 # PCA Workshop
 
-This repository contains the materials and code that I prepared for a workshop on Principal Component Analysis (PCA). The project demonstrates how to perform PCA using Python and includes a detailed ppt presentation along with some CSV files used as datasets for practical examples.
+This repository contains the materials and code that I prepared for a workshop on Principal Component Analysis (PCA). The workshop contains all the steps needed to perform a PCA with different examples, using the most useful grafic representations to visualize the obtained results. The project demonstrates how to perform PCA using Python and includes a detailed ppt presentation along with some CSV files used as datasets for practical examples.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Files in the Repository](#files-in-the-repository)
-- [Installation](#installation)
 - [Running the Code](#running-the-code)
-- [PCA Concept](#pca-concept)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in data analysis and machine learning to reduce the complexity of high-dimensional datasets while preserving most of the variance in the data.
@@ -23,11 +19,12 @@ This repository includes:
 ## Files in the Repository
 - `pca_workshop.py`: Python script that demonstrates how to perform PCA on the datasets.
 - `presentation.pptx`: A PowerPoint presentation explaining the concept of PCA and its practical applications.
-- `dataset1.csv`: Dataset used for the first example.
-- `dataset2.csv`: Dataset used for another example.
+- `countries_data.csv`: Dataset used for the first example.
+- `countries_data_categorical.csv`: Dataset used for categorical example.
+- `countries_data_encoded.csv`: Dataset of categorical encoded variables example.
 - `README.md`: Documentation of the repository.
   
-## Installation
+## Running the Code
 To run the Python code, you will need to have Python installed along with some libraries for data processing and visualization. Follow the steps below to set up the environment:
 
 1. Clone the repository:
@@ -40,14 +37,3 @@ To run the Python code, you will need to have Python installed along with some l
     ```bash
     pip install -r requirements.txt
     ```
-
-The `requirements.txt` file should include:
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-
-You can create the `requirements.txt` file by running:
-```bash
-pip freeze > requirements.txt
