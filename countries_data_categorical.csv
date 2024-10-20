@@ -1,0 +1,22 @@
+Pais,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,Región,Tipo de Gobierno
+Albania,1.0,30,41,2199,3903,12,94,53,0.0,341,Asia,Monarquía
+Angola,3.0,124,46,4422,955,6,57,19,0.7,89,Oceanía,Democracia
+Arabia Saudi,4.3,21,13,133540,91019,96,497,1,0.0,4566,África,Democracia
+Argelia,2.5,34,24,44609,19883,42,180,2,0.8,906,Oceanía,Democracia
+Argentina,1.3,22,31,278431,65962,160,1043,22,0.1,1504,Oceanía,Autocracia
+Australia,1.4,6,43,337909,167155,510,933,19,0.0,5341,Europa,Autocracia
+Austria,0.6,6,41,216547,53259,465,304,47,-0.4,3301,África,Autocracia
+Bangladesh,2.0,79,42,28599,9891,2,220,6,4.1,64,África,Monarquía
+Belgica,0.3,8,40,250710,72236,457,917,20,-0.3,5120,África,Autocracia
+Benin,3.0,95,48,2034,6,5,26,45,1.3,20,Oceanía,Monarquía
+Tailandia,1.3,35,46,159630,71177,59,602,25,3.5,769,Asia,Monarquía
+Tanzania,3.1,82,49,3703,1913,3,40,38,1.2,34,África,Autocracia
+Tunez,2.1,39,30,16369,6714,58,381,4,-1.9,595,Oceanía,Monarquía
+Turquia,1.9,48,35,169452,78322,212,585,26,0.0,957,Europa,Autocracia
+Ucrania,0.1,15,49,84084,202995,157,673,16,-0.3,3180,Asia,Autocracia
+Uruguay,0.6,18,40,16458,7617,196,241,4,-0.6,629,Europa,Democracia
+Venezuela,2.4,23,33,65382,73116,111,382,52,1.2,2186,Asia,Autocracia
+Vietnam,2.2,41,41,17634,12270,11,414,26,1.5,101,Oceanía,Democracia
+Yemen,4.2,100,29,4044,2159,12,335,8,0.0,206,América,Autocracia
+Zambia,2.6,109,45,3605,7785,8,186,43,1.1,149,Asia,Autocracia
+Zimbabue,2.8,55,44,5933,7334,14,136,23,0.7,438,Europa,Democracia
